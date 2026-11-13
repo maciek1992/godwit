@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.36.1](https://github.com/godwit-email/godwit/compare/v1.36.0...v1.36.1) (2026-11-13)
+
+
+### Bug Fixes
+
+* **codes:** keep the sign-in code card while the pointer rests on it ([#757](https://github.com/godwit-email/godwit/issues/757)) ([097d5e4](https://github.com/godwit-email/godwit/commit/097d5e4351a86f1226c9e2b922ee2d6eeda4b82d))
+* **core:** don't count a quitting interface against the next one's quit ([#773](https://github.com/godwit-email/godwit/issues/773)) ([e957325](https://github.com/godwit-email/godwit/commit/e957325631fad9c7095401871ad3069d1c5e28d3))
+* **mailsync:** await the claim of a move whose reply was lost on EWS ([#759](https://github.com/godwit-email/godwit/issues/759)) ([cf46b23](https://github.com/godwit-email/godwit/commit/cf46b23ebc92dd7140ab53a8edd672d72c88e3b8))
+
 ## [1.36.0](https://github.com/godwit-email/godwit/compare/v1.35.0...v1.36.0) (2026-11-13)
 
 
